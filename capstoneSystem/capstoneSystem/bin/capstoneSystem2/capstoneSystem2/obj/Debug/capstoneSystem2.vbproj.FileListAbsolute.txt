@@ -1,0 +1,13 @@
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\capstoneSystem\capstoneSystem\capstoneSystem\bin\capstoneSystem2\capstoneSystem2\bin\Debug\capstoneSystem2.exe
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\capstoneSystem\capstoneSystem\capstoneSystem\bin\capstoneSystem2\capstoneSystem2\bin\Debug\capstoneSystem2.pdb
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\capstoneSystem\capstoneSystem\capstoneSystem\bin\capstoneSystem2\capstoneSystem2\bin\Debug\capstoneSystem2.xml
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\capstoneSystem\capstoneSystem\capstoneSystem\bin\capstoneSystem2\capstoneSystem2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\capstoneSystem\capstoneSystem\capstoneSystem\bin\capstoneSystem2\capstoneSystem2\obj\Debug\capstoneSystem2.Form1.resources
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\capstoneSystem\capstoneSystem\capstoneSystem\bin\capstoneSystem2\capstoneSystem2\obj\Debug\capstoneSystem2.Resources.resources
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\capstoneSystem\capstoneSystem\capstoneSystem\bin\capstoneSystem2\capstoneSystem2\obj\Debug\capstoneSystem2.vbproj.GenerateResource.Cache
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\capstoneSystem\capstoneSystem\capstoneSystem\bin\capstoneSystem2\capstoneSystem2\obj\Debug\capstoneSystem2.exe
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\capstoneSystem\capstoneSystem\capstoneSystem\bin\capstoneSystem2\capstoneSystem2\obj\Debug\capstoneSystem2.xml
+C:\Users\sedil\OneDrive\Documents\Visual Studio 2008\Projects\capstoneSystem\capstoneSystem\capstoneSystem\bin\capstoneSystem2\capstoneSystem2\obj\Debug\capstoneSystem2.pdb
+E:\capstoneSystem\capstoneSystem\capstoneSystem\bin\capstoneSystem2\capstoneSystem2\obj\Debug\capstoneSystem2.exe
+E:\capstoneSystem\capstoneSystem\capstoneSystem\bin\capstoneSystem2\capstoneSystem2\obj\Debug\capstoneSystem2.xml
+E:\capstoneSystem\capstoneSystem\capstoneSystem\bin\capstoneSystem2\capstoneSystem2\obj\Debug\capstoneSystem2.pdb
